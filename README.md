@@ -10,11 +10,10 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoVieiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Elixir" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Postgres" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Phoenix" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg">
+  <img align="center" alt="AWS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   
   ##
   <div> 
