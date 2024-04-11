@@ -1,8 +1,8 @@
-## Olá! Eu sou o Iago Vieira! 👋
 
-- 👀 Tenho interesse em tecnologia, filmes e séries de gêneros diversos, músicas de gêneros diversos e jogos multiplayer.
-- 🌱 Atualmente estou aprendendo programar em Java| MySQL | Spring e outros recursos tecnológicos. 
-- 📬Procuro colaborar para um mundo mais conectado, estudando e trabalhando com soluções tecnológicas
+
+- Desenvolvedor BackEnd | Python | Java | Elixir 
+- Computação em nuvem
+- Estudante de Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/IagoVieiraa">
