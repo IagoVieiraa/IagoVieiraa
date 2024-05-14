@@ -9,10 +9,9 @@
   <img height="140em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoVieiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Elixir" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Postgres" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Phoenix" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg">
-  <img align="center" alt="AWS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="DRF" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-line-wordmark.svg">
   
   ##
   <div> 
