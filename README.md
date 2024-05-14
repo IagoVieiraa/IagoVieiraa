@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/IagoVieiraa">
-  <img height="140em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoVieiraa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoVieiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
